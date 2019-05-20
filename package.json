@@ -26,7 +26,6 @@
   "dependencies": {
     "public-ip": "^3.1.0",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-router-dom": "^5.0.0"
+    "react-dom": "^16.8.6"
   }
 }

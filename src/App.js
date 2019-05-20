@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { Redirect } from 'react-router-dom';
 
 import Database from './database';
 import { UrlDetails, UrlInput, UrlList } from './components';
